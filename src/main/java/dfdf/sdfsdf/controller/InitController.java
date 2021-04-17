@@ -10,6 +10,6 @@ public class InitController {
 
     @GetMapping("index")
     public String initIndex(){
-        return "this is InitController index Method，i was build success V5555555555555555！";
+        return "this is InitController index Method，i was build success V5555555555555555！....";
     }
 }
